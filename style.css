@@ -1,3 +1,15 @@
 .cabecalho {
-    background-color: blueviolet;
+    background-color: rgb(43, 226, 113);
+}
+
+
+img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+a {
+    word-spacing: 25px;
 }
